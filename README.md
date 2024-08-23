@@ -15,7 +15,7 @@ El juego selecciona un número secreto aleatorio entre 1 y un número máximo de
 ## Archivos
 
 - `index.html`: Contiene la estructura básica del HTML para el juego.
-- `styles.css`: Define el estilo y diseño visual de la aplicación.
+- `style.css`: Define el estilo y diseño visual de la aplicación.
 - `app.js`: Contiene la lógica del juego en JavaScript.
 
 ## Estructura del Código
